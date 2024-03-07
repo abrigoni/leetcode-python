@@ -1,7 +1,7 @@
 import unittest
 from src.arrays_hashing.contains_duplicate import Solution
 
-class TestStringMethods(unittest.TestCase):
+class ContainsDuplicateTest(unittest.TestCase):
   def setUp(self):
     self.solution = Solution()
   
